@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(109, 150, 185);
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.chatapp {
+     background-color: rgb(109, 150, 185);
+     margin-top: 20px;
+     border-radius: 20px;
+     padding: 20px;
+ }
